@@ -76,12 +76,12 @@ class _MyHomePageState extends State<MyHomePage> {
                         borderSide: const BorderSide(
                           color: Colors.deepPurple,
                         ),
-                        borderRadius: BorderRadius.circular(15)),
+                        borderRadius: BorderRadius.circular(20)),
                     focusedBorder: OutlineInputBorder(
                         borderSide: const BorderSide(
                           color: Colors.deepPurple,
                         ),
-                        borderRadius: BorderRadius.circular(15))),
+                        borderRadius: BorderRadius.circular(20))),
               ),
             )),
             FloatingActionButton(
